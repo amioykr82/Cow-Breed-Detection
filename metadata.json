@@ -1,0 +1,5 @@
+{
+  "name": "Gomata Breed Detection",
+  "description": "An intelligent web application that uses AI to recognize the breed of a cow from an uploaded image by analyzing its features.",
+  "requestFramePermissions": []
+}
